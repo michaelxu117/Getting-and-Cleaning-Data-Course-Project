@@ -23,4 +23,18 @@ From the data set in step 4, creates a second, independent tidy data set with th
 2. Explanation of analysis file
 
 Step 1: Merge the training and the test sets to create one data set
+        - read training and test files
+        - add column names the tables
+        - merge two date sets to one data set
         
+Step 2: Extracts only the measurements on the mean and standard deviation for each measurement
+        - identify the column names needed
+        - select those columns only
+        
+Step 3: Uses descriptive activity names to name the activities in the data set
+        
+Step 4: Appropriately labels the data set with descriptive variable name
+        - replace column names with descriptive labels
+        
+Step 5: From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject 
+        - write the table to local machine
