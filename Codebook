@@ -84,3 +84,5 @@ Variables:
   subject-activity-mean-fBodyBodyGyroJerkMag-std(): The mean of all time window values for each combination of subject and activity for the variable fBodyBodyGyroJerkMag-std().
   subject-activity-mean-fBodyBodyGyroJerkMag-meanFreq(): The mean of all time window values for each combination of subject and activity for the variable fBodyBodyGyroJerkMag-meanFreq().
 
+Explaination of analysis:
+  See readme
