@@ -2,9 +2,9 @@ Getting and Cleaning Data Course Project
 
 Variables:
 
-subject: The integer id of one of the 30 subjects, ranging from 1 to 30.
-activity: The type of activity the subject was engaged in. One of WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
-subject-activity-mean-tBodyAcc-mean()-X: The mean of all time window values for each combination of subject and activity for the variable tBodyAcc-mean()-X.
+  subject: The integer id of one of the 30 subjects, ranging from 1 to 30.
+  activity: The type of activity the subject was engaged in. One of WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
+  subject-activity-mean-tBodyAcc-mean()-X: The mean of all time window values for each combination of subject and activity for the variable tBodyAcc-mean()-X.
 subject-activity-mean-tBodyAcc-mean()-Y: The mean of all time window values for each combination of subject and activity for the variable tBodyAcc-mean()-Y.
 subject-activity-mean-tBodyAcc-mean()-Z: The mean of all time window values for each combination of subject and activity for the variable tBodyAcc-mean()-Z.
 subject-activity-mean-tBodyAcc-std()-X: The mean of all time window values for each combination of subject and activity for the variable tBodyAcc-std()-X.
